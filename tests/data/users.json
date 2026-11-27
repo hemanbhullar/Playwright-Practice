@@ -1,0 +1,14 @@
+{
+  "standard": {
+    "username": "admin",
+    "password": "Pass@9211"
+  },
+  "incorrectUsername": {
+    "username": "unknown-user",
+    "password": "AnyPass123!"
+  },
+  "incorrectPassword": {
+    "username": "admin",
+    "password": "WrongPass1!"
+  }
+}
